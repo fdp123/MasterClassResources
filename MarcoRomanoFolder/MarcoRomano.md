@@ -32,7 +32,7 @@ lab2Conditioner.setCondTemp(temp: 24.5)
 lab2Conditioner.switchCond()
 ```
 
-
+```swift
 class Conditioner {
 var isActive: Bool
 var airPower: Int
@@ -101,3 +101,4 @@ self.slatsAngle = 0
 }
 
 }
+```
