@@ -1,2 +1,0 @@
-# MasterClassResources
-Master class Resources
