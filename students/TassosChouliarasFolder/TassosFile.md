@@ -1,6 +1,6 @@
 ### Amazing Markdown file ###
 
-Now a nested list:
+Now a nice nested list:
 
  1. First, go shopping:
 
