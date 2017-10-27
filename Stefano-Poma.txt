@@ -1,0 +1,6 @@
+//: StefanoPoma
+
+var str = "It's me, Stefano!"
+
+print(str)
+
