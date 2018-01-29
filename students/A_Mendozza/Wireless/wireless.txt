@@ -1,0 +1,28 @@
+16 gennaio 2018
+
+OFDM --> Orthogonal frequency-division multiplexin. 
+
+In 1999, the IEEE 802.11a is used to work with unlicensed 5 GHz band 
+
+802.11a, the bandwidth of a channel is 20MHz
+In OFDM is easly extend to use 40 MHz in 802.11n, 80 MHz and 160 MHz (802.11ac) channels
+
+
+
+Which tools do you advice to collect wifi metrics? 
+
+
+The last PHY: in 2003, the IEEE 802.11g introduced the Extended Rate PHY.   
+
+
+Tools to measure wi-fi frequency 
+WireShark 
+
+Command line tools: 
+$ cd /System/Library/PrivateFrameworks/Apple80211.framework/Versions/A/Resources
+$ ./airport -I
+
+How the MAC layer work?
+MAC has to share the Medium and transmitted frame, how the CSMA 		 
+
+/* */

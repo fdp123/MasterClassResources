@@ -1,0 +1,1 @@
+http://www.cafesoft.com/products/cams/ps/docs32/admin/ConfiguringApache2ForSSLTLSMutualAuthentication.html this guide works! To act as a Certificate Authority. When in the guide ask for a "fully qualified DNS name" just use your computer name that you can get at the output from running uname -a in my case is alemens.local 
