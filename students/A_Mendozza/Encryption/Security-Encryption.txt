@@ -1,0 +1,16 @@
+/* Valentina Casola */
+6 dic 2017
+substitution + transposition
+
+Encrypt and Decrypt a message 
+$ openssl enc -des3 -e -salt -a -in msg.txt -out msgsym.base64
+$ openssl enc -des3 -d -salt -a -out msg2.txt -in msgsym.base64
+
+Compile from the code *JohnTheRipper*
+./configure LDFLAGS=-L/tmp/openssl-1.1.0f CFLAGS="-O2 -I/tmp/openssl-1.1.0f/include"
+
+/* Link List */
+Scan security for a website https://www.qualys.com
+Password cracker https://github.com/magnumripper/JohnTheRipper
+
+/* END */
