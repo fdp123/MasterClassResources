@@ -1,9 +1,0 @@
-07 Dic 2017 
-Docker implementing Node | Kitura 
-
-12 Dic 2017
-Docker is a virtualization technology 
-Container based on virtualization 
-https://training.docker.com/introduction-to-docker
-
-/* END */

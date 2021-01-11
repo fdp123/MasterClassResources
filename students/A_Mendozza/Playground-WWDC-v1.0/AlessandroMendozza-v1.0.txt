@@ -1,5 +1,0 @@
-/Users/alessandromendozza/Dropbox (iOSDA-IT)/PROGETTI/WWDC-playground/
-
-Hello! In this playground AlessandroMendozza.playgroundbook you see the use of AudioKit framework with immediate aural and visual feedback. The precompiled framework does not work with Playgroundbooks so the build of the source files was made to achieve the conversion to Swift.
-
-/* */
